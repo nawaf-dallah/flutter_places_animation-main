@@ -67,7 +67,6 @@ class _AnimatedHeader extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print(percent);
     return ColoredBox(
       color: Colors.grey[350]!,
       child: Stack(

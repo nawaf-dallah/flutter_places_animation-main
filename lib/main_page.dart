@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animation/pull_to_refresh/custom_refresh_indecator.dart';
 
-import 'album_anaimation/album_details.dart';
 import 'album_animation/album_page.dart';
 import 'animal_animation/main_page_animal_app.dart';
 import 'coffee_animation/coffee_home.dart';

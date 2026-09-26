@@ -2,8 +2,6 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:snap_scroll_physics/snap_scroll_physics.dart';
-
-import '../core/responsive.dart';
 import 'data/album_model.dart';
 import 'widget/animated_header_album.dart';
 
